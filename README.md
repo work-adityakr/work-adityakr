@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Kumar! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Java+DSA+Enthusiast;200%2B+Problems+Solved" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Java+DSA+Enthusiast;200%2B+DSA+Problems+Solved" alt="Typing SVG" /></a>
 ### 🚀 Full Stack MERN Developer | Java Enthusiast
 
 
