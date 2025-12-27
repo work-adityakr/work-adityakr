@@ -8,7 +8,7 @@ I am a passionate developer from Dhanbad, Jharkhand, currently pursuing my B.Tec
 
 - 🔭 I’m currently working on **StudyNotion (Ed-Tech Platform)**
 - 🌱 I’m currently learning **Advanced System Design**
-- 👨‍💻 I have solved **200+ Problems** on various coding platforms.
+- 👨‍💻 I have solved **200+ DSA Problems(In java)** on various coding platforms.
 - 💬 Ask me about **React, Node.js, Java, and REST APIs**
 - 📫 Reach me at **work.adityakr@gmail.com**
 
