@@ -28,11 +28,19 @@ I am a passionate developer from Dhanbad, Jharkhand, currently pursuing my B.Tec
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<a href="https://github.com/work-adityakr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=work-adityakr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-adityakr&layout=compact&theme=tokyonight"/>
-</a>
+<p align="center">
+  <a href="https://github.com/work-adityakr">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=work-adityakr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-adityakr&layout=compact&theme=tokyonight&langs_count=8"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 
