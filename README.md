@@ -48,7 +48,7 @@ public class AdityaKumar {
     
     public void currentFocus() {
         // Building scalable backend services and responsive UIs
-        System.out.println("Developing StudyNotion & Doctor Appointment App");
+        System.out.println("Developing UpSkill & Doctor Appointment App");
     }
 
     public void solveProblems() {
