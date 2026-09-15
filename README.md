@@ -30,8 +30,14 @@ I am a passionate developer from Dhanbad, Jharkhand, currently pursuing my B.Tec
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=work-adityakr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-adityakr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-adityakr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/work-adityakr/work-adityakr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/work-adityakr/work-adityakr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/work-adityakr/work-adityakr/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 
 
