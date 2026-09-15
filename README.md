@@ -6,7 +6,7 @@
 
 I am a passionate developer from Dhanbad, Jharkhand, currently pursuing my B.Tech in Computer Science at Roorkee Institute of Technology. I specialize in building scalable web applications using the MERN stack and have a strong grasp of Data Structures & Algorithms in Java.
 
-- 🔭 I’m currently working on **StudyNotion (Ed-Tech Platform)**
+- 🔭 I’m currently working on **UpSkill (Ed-Tech Platform)**
 - 🌱 I’m currently learning **Advanced System Design**
 - 👨‍💻 I have solved **200+ DSA Problems(In java)** on various coding platforms.
 - 💬 Ask me about **React, Node.js, Java, and REST APIs**
